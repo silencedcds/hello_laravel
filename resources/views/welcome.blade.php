@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    hello！小誉馨放寒假了~
+                    hello~小誉馨放寒假了！
                 </div>
 
                 <div class="links">
